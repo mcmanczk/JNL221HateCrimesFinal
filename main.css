@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&family=Oswald&family=Outfit:wght@500&family=Staatliches&display=swap');
+
+#headline {
+	padding-top: 20px;
+}
+
+h1 {
+	font-family: Oswald, sans-serif;
+	font-weight: bold;
+	color: darkred;
+	font-size: 100px;
+	font-stretch: 10px;
+	padding-top: 15px;
+}
+
+h2{
+	font-family: Oswald, sans-serif;
+	font-size: 30px;
+	color: slategray;
+}
+
+#byline {
+	font-family: Oswald, sans-serif;
+	color: gray;
+	font-size: 20px;
+}
+
+#story_text {
+	padding-top: 35px;
+	padding-bottom: 40px;
+	margin-bottom: 30px;
+}
+
+#first_chart {
+	padding-top: 35px;
+	padding-bottom: 20px;
+}
+
+#story_text {
+	font-family: Georgia, sans-serif;
+	font-size: 18px;
+	padding-bottom: 20px;
+}
+
+#second_chart {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+#third_chart {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+#fourth_chart {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
